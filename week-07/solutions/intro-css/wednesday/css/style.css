@@ -9,13 +9,13 @@ body {
   color: black;
 }
 
-figcaption {
+/figcaption {
   color: red;
 } /
 
-/* section {
+section {
   color: red;
-} */
+} 
 
 /* p,
 li,
