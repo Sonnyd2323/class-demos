@@ -28,7 +28,11 @@ td {
 
 #introduction {
   color: red;
-} 
+}
+
+.alt-row {
+  color: red;
+}
 
 /* .alt-row {
   color: red;
