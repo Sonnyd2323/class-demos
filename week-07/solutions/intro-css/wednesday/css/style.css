@@ -11,17 +11,23 @@ body {
 
 figcaption {
   color: red;
-} 
+}
 
 section {
   color: red;
 }
 
-/* p,
-li,
-td {
+p {
   color: red;
-} */
+}
+
+li {
+  color: red;
+}
+
+td{
+  color: red;
+}
 
 /* #introduction {
   color: red;
