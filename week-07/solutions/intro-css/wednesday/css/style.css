@@ -17,21 +17,18 @@ section {
   color: black;
 }
 
-p {
+p,
+li,
+td {
   color: red;
 }
 
-li {
-  color: red;
-}
 
-td{
-  color: red;
-}
 
-/* #introduction {
+
+#introduction {
   color: red;
-} */
+} 
 
 /* .alt-row {
   color: red;
