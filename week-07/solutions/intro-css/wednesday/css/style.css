@@ -41,6 +41,10 @@ nav li {
 #introduction abbr {
   color: red;
 }
+
+header figcaption {
+  color: red;
+}
 /* .alt-row {
   color: red;
 } */
