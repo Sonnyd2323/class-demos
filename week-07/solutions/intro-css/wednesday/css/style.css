@@ -37,6 +37,10 @@ nav li {
   list-style-type: square;
   color: red;
 }
+
+#introduction abbr {
+  color: red;
+}
 /* .alt-row {
   color: red;
 } */
