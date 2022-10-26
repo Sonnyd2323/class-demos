@@ -35,6 +35,7 @@ td {
 
 nav li {
   list-style-type: square;
+  color: red;
 }
 /* .alt-row {
   color: red;
