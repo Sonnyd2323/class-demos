@@ -33,6 +33,9 @@ td {
   color: red;
 }
 
+nav li {
+  list-style-type: square;
+}
 /* .alt-row {
   color: red;
 } */
